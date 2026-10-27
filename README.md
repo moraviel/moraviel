@@ -2,7 +2,7 @@
 I'm currently gaining experience as a Fullstack developer.<br>
 I'm ready to collaborate with interesting developers!<br>
 I'm currently learning Go, also i am interested in System Programming and Machine Learning.<br>
-I prefer to save my project on my [GitLab](https://git.moraviel.dev/explore)
+I prefer to save my project on my [GitLab](https://git.moraviel.dev/dhalytskyi)
 
 
 ## 🌐 Socials:
