@@ -29,16 +29,16 @@
 ### <span style='color: #7C3AED'>📊 GitHub stats</span>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhalytskyi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhalytskyi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moraviel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraviel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhalytskyi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=moraviel&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhalytskyi&color=7c3aed&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=moraviel&color=7c3aed&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
