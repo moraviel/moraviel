@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#00d4ff"/>
+      <stop offset="0.5" stop-color="#c77dff"/>
+      <stop offset="0.8" stop-color="#ff6ec7"/>
+      <stop offset="1" stop-color="#ff6ec7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#l)" opacity="0.7"/>
+  <g>
+    <circle cy="12" r="6" fill="#fff" filter="url(#g)"/>
+    <circle cy="12" r="2.5" fill="#fff"/>
+    <animateTransform attributeName="transform" type="translate" values="-20,0;1220,0" dur="5s" repeatCount="indefinite"/>
+  </g>
+</svg>
